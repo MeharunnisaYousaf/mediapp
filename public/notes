@@ -1,0 +1,10 @@
+REACT-ROUTER-DOM
+
+The react-router-dom package contains bindings for using React Router in web applications. Please see the Getting Started guide for more information on how to get started with React Router.
+
+create a json-server folder
+to deploy we need node therefore ,using npm init-y get the json configeration file-package.json
+install json package files using npm i json-server
+create a file call .gitignore and mention node_modules(to remove the unwanted files)
+to store and run we create a db.json file and store the data which is to be stored in json format(key-value pair)-videos,history,categories
+to import j-son server in index.js file
